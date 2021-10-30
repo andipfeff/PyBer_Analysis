@@ -1,10 +1,12 @@
 # PyBer Ride-Sharing Analysis
 
 ## Overview of the analysis
-The purpose of this analsys it to 
+The purpose of this analsys is to create various visualization's for the PyBer CEO. The data was grouped by city type and various fare, driver and ride related metrics were graphed using scatter plots, pie charts, box & whisker plots and line graphs. 
 
 ## Results
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types. There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+
+
 
 Summary DataFrame
 
